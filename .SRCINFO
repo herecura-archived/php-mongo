@@ -1,7 +1,7 @@
 pkgbase = php-mongo
 	pkgdesc = Officially supported PHP driver for MongoDB
 	pkgver = 1.4.3
-	pkgrel = 1
+	pkgrel = 3
 	url = http://www.mongodb.org/display/DOCS/PHP+Language+Center
 	arch = i686
 	arch = x86_64
