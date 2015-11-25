@@ -4,7 +4,7 @@
 # Contributor: Jarek Sedlacek <jareksedlacek@gmail.com>
 
 pkgname=php-mongo
-pkgver=1.6.11
+pkgver=1.6.12
 pkgrel=1
 pkgdesc="Officially supported PHP driver for MongoDB"
 arch=("i686" "x86_64")
@@ -16,7 +16,7 @@ source=(
 	"http://pecl.php.net/get/mongo-$pkgver.tgz"
 	"mongo.ini"
 )
-sha256sums=('cd180ae35f537a199d374a3105106ee5a2b0cab618b12f6221e4c985c28955ac'
+sha256sums=('3fec10526ed02ce0e54c4623839e35bfab17d16cb9e8a48c7fee126be351c990'
             'c89685eee842d5c3a85149a5bb8e310e62bf1a17f94183bb66401593ab2b191b')
 
 build() {
